@@ -1,0 +1,41 @@
+
+G
+java:S1874;",Remove this use of "Date"; it is deprecated.(Å³æÀûÿÿÿÿ
+G
+java:S1874<",Remove this use of "Date"; it is deprecated.(€›ê½üÿÿÿÿ
+G
+java:S1874=",Remove this use of "Date"; it is deprecated.(§ƒªƒùÿÿÿÿ
+B
+java:S1874>",Remove this use of "Date"; it is deprecated.(Ó²åÅ
+M	java:S106X"9Replace this use of System.out or System.err by a logger.(“‰Êm
+T
+java:S1117_"9Rename "fecha" which hides the field declared at line 13.(ì¥Íùÿÿÿÿ
+G
+java:S1874_",Remove this use of "Date"; it is deprecated.(ì¥Íùÿÿÿÿ
+N	java:S106g"9Replace this use of System.out or System.err by a logger.(å´Şî
+T
+java:S1117n"9Rename "fecha" which hides the field declared at line 13.(ì¥Íùÿÿÿÿ
+G
+java:S1874n",Remove this use of "Date"; it is deprecated.(ì¥Íùÿÿÿÿ
+N	java:S106u"9Replace this use of System.out or System.err by a logger.(Ş¦ı±
+N	java:S106‚"9Replace this use of System.out or System.err by a logger.(“ìñP
+O	java:S106"9Replace this use of System.out or System.err by a logger.(¦ß‡û
+T	java:S106›"9Replace this use of System.out or System.err by a logger.(ïŞÁ¿ûÿÿÿÿ
+K
+java:S1128"0Remove this unused import 'java.time.LocalDate'.(›‘¬èıÿÿÿÿ
+o
+java:S2293E"YReplace the type specification in this constructor call with the diamond operator ("<>").(Ÿ¶ùõ
+>
+java:S1604N"(Make this anonymous inner class a lambda(¥›Æˆ
+>
+java:S1604\"(Make this anonymous inner class a lambda(®äğŸ
+C
+java:S1604k"(Make this anonymous inner class a lambda(¶‰ŞŞşÿÿÿÿ
+>
+java:S1604y"(Make this anonymous inner class a lambda(¾·æ‚
+?
+java:S1604†"(Make this anonymous inner class a lambda(¹—¡õ
+?
+java:S1604’"(Make this anonymous inner class a lambda(‚â…Ş
+f
+java:S3655V"PCall "Optional#isPresent()" or "!Optional#isEmpty()" before accessing the value.(—³î¾
